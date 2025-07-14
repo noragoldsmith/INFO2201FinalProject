@@ -1,0 +1,171 @@
+,Measure,State,Value,Score,Rank
+57628,Depression,HI,13.9,-2.0,1.0
+57629,Depression,IA,19.2,-0.79,13.0
+57639,Depression,MI,24.1,0.59,36.0
+57645,Depression,ND,22.3,0.08,25.0
+57666,Depression,WV,31.1,2.0,48.0
+57680,Depression - Female,HI,17.4,,2.0
+57681,Depression - Female,IA,25.8,,18.0
+57691,Depression - Female,MI,31.2,,37.0
+57697,Depression - Female,ND,30.5,,33.0
+57718,Depression - Female,WV,39.1,,48.0
+57732,Depression - Male,HI,10.3,,1.0
+57733,Depression - Male,IA,12.4,,8.0
+57743,Depression - Male,MI,16.7,,30.0
+57749,Depression - Male,ND,14.5,,16.0
+57770,Depression - Male,WV,22.9,,48.0
+57784,Depression - Ages 18-44,HI,16.2,,1.0
+57785,Depression - Ages 18-44,IA,24.0,,17.0
+57795,Depression - Ages 18-44,MI,29.5,,39.0
+57801,Depression - Ages 18-44,ND,28.5,,35.0
+57822,Depression - Ages 18-44,WV,36.5,,48.0
+57836,Depression - Ages 45-64,HI,14.0,,2.0
+57837,Depression - Ages 45-64,IA,17.9,,12.0
+57847,Depression - Ages 45-64,MI,22.7,,32.0
+57853,Depression - Ages 45-64,ND,18.5,,13.0
+57874,Depression - Ages 45-64,WV,32.8,,48.0
+57888,Depression - Age 65+,HI,10.0,,1.0
+57889,Depression - Age 65+,IA,12.3,,7.0
+57899,Depression - Age 65+,MI,16.8,,36.0
+57905,Depression - Age 65+,ND,13.7,,17.0
+57926,Depression - Age 65+,WV,21.5,,48.0
+57940,Depression - American Indian/Alaska Native,HI,,,
+57941,Depression - American Indian/Alaska Native,IA,,,
+57951,Depression - American Indian/Alaska Native,MI,,,
+57957,Depression - American Indian/Alaska Native,ND,28.7,,14.0
+57978,Depression - American Indian/Alaska Native,WV,,,
+57992,Depression - Asian,HI,9.7,,7.0
+57993,Depression - Asian,IA,,,
+58003,Depression - Asian,MI,8.9,,5.0
+58009,Depression - Asian,ND,,,
+58030,Depression - Asian,WV,,,
+58044,Depression - Black,HI,18.4,,25.0
+58045,Depression - Black,IA,11.7,,3.0
+58055,Depression - Black,MI,19.7,,29.0
+58061,Depression - Black,ND,,,
+58082,Depression - Black,WV,22.4,,38.0
+58096,Depression - Hawaiian/Pacific Islander,HI,9.6,,
+58097,Depression - Hawaiian/Pacific Islander,IA,,,
+58107,Depression - Hawaiian/Pacific Islander,MI,,,
+58113,Depression - Hawaiian/Pacific Islander,ND,,,
+58134,Depression - Hawaiian/Pacific Islander,WV,,,
+58148,Depression - Hispanic,HI,20.3,,32.0
+58149,Depression - Hispanic,IA,13.2,,8.0
+58159,Depression - Hispanic,MI,23.6,,37.0
+58165,Depression - Hispanic,ND,28.6,,43.0
+58186,Depression - Hispanic,WV,26.4,,40.0
+58200,Depression - Multiracial,HI,15.5,,1.0
+58201,Depression - Multiracial,IA,31.5,,23.0
+58211,Depression - Multiracial,MI,32.2,,25.0
+58217,Depression - Multiracial,ND,45.1,,45.0
+58238,Depression - Multiracial,WV,27.2,,7.0
+58252,Depression - White,HI,18.0,,2.0
+58253,Depression - White,IA,19.8,,6.0
+58263,Depression - White,MI,25.3,,36.0
+58269,Depression - White,ND,21.6,,13.0
+58290,Depression - White,WV,31.6,,48.0
+58304,Depression - College Grad,HI,12.9,,2.0
+58305,Depression - College Grad,IA,17.3,,18.0
+58315,Depression - College Grad,MI,19.5,,30.0
+58321,Depression - College Grad,ND,16.1,,13.0
+58342,Depression - College Grad,WV,22.3,,42.0
+58356,Depression - High School/GED,HI,12.2,,1.0
+58357,Depression - High School/GED,IA,17.3,,11.0
+58367,Depression - High School/GED,MI,22.3,,37.0
+58373,Depression - High School/GED,ND,19.0,,18.0
+58394,Depression - High School/GED,WV,30.6,,48.0
+58408,Depression - Less Than High School,HI,15.3,,7.0
+58409,Depression - Less Than High School,IA,15.6,,9.0
+58419,Depression - Less Than High School,MI,26.3,,34.0
+58425,Depression - Less Than High School,ND,31.1,,42.0
+58446,Depression - Less Than High School,WV,40.2,,48.0
+58460,Depression - Some Post-High School,HI,15.6,,2.0
+58461,Depression - Some Post-High School,IA,20.4,,10.0
+58471,Depression - Some Post-High School,MI,26.5,,37.0
+58477,Depression - Some Post-High School,ND,23.4,,23.0
+58498,Depression - Some Post-High School,WV,34.6,,48.0
+58512,"Depression - $25,000-$49,999",HI,16.3,,3.0
+58513,"Depression - $25,000-$49,999",IA,22.6,,17.0
+58523,"Depression - $25,000-$49,999",MI,25.4,,28.0
+58529,"Depression - $25,000-$49,999",ND,27.9,,43.0
+58550,"Depression - $25,000-$49,999",WV,35.6,,48.0
+58564,"Depression - $50,000-$74,999",HI,11.8,,1.0
+58565,"Depression - $50,000-$74,999",IA,16.5,,5.0
+58575,"Depression - $50,000-$74,999",MI,21.7,,27.0
+58581,"Depression - $50,000-$74,999",ND,19.4,,15.0
+58602,"Depression - $50,000-$74,999",WV,27.3,,45.0
+58616,"Depression - $75,000 or More",HI,11.8,,1.0
+58617,"Depression - $75,000 or More",IA,14.1,,5.0
+58627,"Depression - $75,000 or More",MI,18.5,,33.0
+58633,"Depression - $75,000 or More",ND,16.2,,18.0
+58654,"Depression - $75,000 or More",WV,22.4,,47.0
+58668,"Depression - Less Than $25,000",HI,25.7,,8.0
+58669,"Depression - Less Than $25,000",IA,31.3,,20.0
+58679,"Depression - Less Than $25,000",MI,36.5,,30.0
+58685,"Depression - Less Than $25,000",ND,39.9,,42.0
+58706,"Depression - Less Than $25,000",WV,42.9,,47.0
+58720,Depression - Difficulty Hearing,HI,19.0,,1.0
+58721,Depression - Difficulty Hearing,IA,23.5,,12.0
+58731,Depression - Difficulty Hearing,MI,26.8,,22.0
+58737,Depression - Difficulty Hearing,ND,26.8,,22.0
+58758,Depression - Difficulty Hearing,WV,42.4,,48.0
+58772,Depression - Difficulty Seeing,HI,29.3,,6.0
+58773,Depression - Difficulty Seeing,IA,37.5,,26.0
+58783,Depression - Difficulty Seeing,MI,36.6,,25.0
+58789,Depression - Difficulty Seeing,ND,41.0,,37.0
+58810,Depression - Difficulty Seeing,WV,47.6,,47.0
+58824,Depression - Difficulty With Cognition,HI,45.9,,1.0
+58825,Depression - Difficulty With Cognition,IA,54.2,,11.0
+58835,Depression - Difficulty With Cognition,MI,62.8,,39.0
+58841,Depression - Difficulty With Cognition,ND,64.6,,44.0
+58862,Depression - Difficulty With Cognition,WV,65.2,,46.0
+58876,Depression - Difficulty With Mobility,HI,24.5,,1.0
+58877,Depression - Difficulty With Mobility,IA,32.8,,11.0
+58887,Depression - Difficulty With Mobility,MI,39.0,,32.0
+58893,Depression - Difficulty With Mobility,ND,39.4,,36.0
+58914,Depression - Difficulty With Mobility,WV,45.7,,48.0
+58928,Depression - Difficulty With Self-Care,HI,39.5,,5.0
+58929,Depression - Difficulty With Self-Care,IA,46.6,,15.0
+58939,Depression - Difficulty With Self-Care,MI,45.7,,13.0
+58945,Depression - Difficulty With Self-Care,ND,53.8,,39.0
+58966,Depression - Difficulty With Self-Care,WV,56.6,,44.0
+58980,Depression - Independent Living Difficulty,HI,41.5,,1.0
+58981,Depression - Independent Living Difficulty,IA,52.4,,15.0
+58991,Depression - Independent Living Difficulty,MI,55.9,,27.0
+58997,Depression - Independent Living Difficulty,ND,65.5,,47.0
+59018,Depression - Independent Living Difficulty,WV,56.9,,31.0
+59032,Depression - Without a Disability,HI,9.0,,1.0
+59033,Depression - Without a Disability,IA,13.0,,16.0
+59043,Depression - Without a Disability,MI,16.3,,37.0
+59049,Depression - Without a Disability,ND,15.3,,34.0
+59070,Depression - Without a Disability,WV,20.3,,48.0
+59084,Depression - Metro,HI,13.1,,1.0
+59085,Depression - Metro,IA,19.9,,14.0
+59095,Depression - Metro,MI,23.6,,30.0
+59101,Depression - Metro,ND,23.6,,30.0
+59122,Depression - Metro,WV,30.2,,48.0
+59136,Depression - Non-Metro,HI,17.2,,5.0
+59137,Depression - Non-Metro,IA,18.3,,8.0
+59147,Depression - Non-Metro,MI,26.1,,39.0
+59153,Depression - Non-Metro,ND,20.9,,19.0
+59174,Depression - Non-Metro,WV,32.7,,44.0
+59188,Depression - LGBQ+,HI,32.1,,1.0
+59189,Depression - LGBQ+,IA,41.1,,11.0
+59199,Depression - LGBQ+,MI,50.4,,23.0
+59205,Depression - LGBQ+,ND,55.7,,33.0
+59226,Depression - LGBQ+,WV,64.1,,35.0
+59240,Depression - Straight,HI,12.6,,2.0
+59241,Depression - Straight,IA,17.5,,10.0
+59251,Depression - Straight,MI,21.6,,26.0
+59257,Depression - Straight,ND,20.3,,19.0
+59278,Depression - Straight,WV,29.3,,35.0
+59292,Depression - Not Served,HI,13.9,,1.0
+59293,Depression - Not Served,IA,19.7,,14.0
+59303,Depression - Not Served,MI,24.9,,37.0
+59309,Depression - Not Served,ND,23.0,,28.0
+59330,Depression - Not Served,WV,32.1,,48.0
+59344,Depression - Served,HI,13.2,,2.0
+59345,Depression - Served,IA,14.0,,4.0
+59355,Depression - Served,MI,16.1,,12.0
+59361,Depression - Served,ND,17.1,,16.0
+59382,Depression - Served,WV,23.2,,41.0
