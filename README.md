@@ -8,9 +8,15 @@
 ### What data type is it?
 - The data is a csv file
 
-### What are the restrictions of that data type (Gaps? Ethics?) _______________
+### What are the restrictions of that data type (Gaps? Ethics?)
+- Although the csv file contained a large amount of data, some of the cells were missing values so we were unable to use certain variables for our visualizations.
 
 ### Pros and cons of this data source in terms of accessibility __________________
+- Pros:
+  - Contained a large amount of data to view and consider
+  - Organized by variable, which made the file easy to navigate for our purposes
+- Cons:
+  - Did not provide a lot of context as to what certain values meant or how the data was collected, however that information was available on a separate site
 
 ## Walk Through of Data Pulling
 ### Where did you get it from?
@@ -46,8 +52,11 @@
 - When making our tables, we deleted certain columns to avoid unnecessary cleaning/deleting of data, as well as make the visuals easier to understand. For example, we weren't interested in the columns labeled "Lower Cl" and "Upper Cl", so we omitted them from our final dataframes.
 
 ## Reflection on Visualizations
-### Implications for visualization ____________________
-- possible other visualizations in readme
+### Implications for visualizations
+- When analyzing the prevalence of depression across our chosen factors, many times the factors contributed to rates of depression higher than the national average, which highlights the importance of targeted approaches when dealing with mental health
+- Understanding how depression manifests itself in various ways is important for creating and proposing informed solutions such as new policies, improved resources, or further research
+- Our visualizations serve as evidence to continue the research and development of mental health treatment geared towards vulnerable communities, such as low income Americans and those living below the poverty line
+
 
 ## Storytelling/Insight
 ### Where is this helpful? ______________________
