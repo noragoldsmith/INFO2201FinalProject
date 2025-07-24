@@ -61,13 +61,16 @@
 
 ## Reflection on Visualizations
 ### Implications
-- When analyzing the prevalence of depression across our chosen factors, many times the factors contributed to rates of depression higher than the national average, which highlights the importance of targeted approaches when dealing with mental health
-- Understanding how depression manifests itself in various ways is important for creating and proposing informed solutions such as new policies, improved resources, or further research
-- Our visualizations serve as evidence to continue the research and development of mental health treatment geared towards vulnerable communities, such as low income Americans and those living below the poverty line
+- When analyzing the prevalence of depression across our chosen factors, many times the factors contributed to rates of depression higher than the national average, which highlights the importance of targeted approaches when dealing with mental health.
+- Our visualizations serve as evidence to continue the research and development of mental health treatment geared towards vulnerable communities, such as low income Americans and those living below the poverty line.
 
 
 ## Storytelling/Insight
-### Where is this helpful? ______________________
+### Where is this helpful?
+- By identifying at-risk populations and communities, our insights can be used when coordinating where to allocate resources and funding.
+- Furthermore, our results can help bring more attention to the potential systematic components of depression in the U.S. and the barriers to support that people face.
 
-### What should other people draw conclusions about from your visualizations and cleaning? ________________
+### What should other people draw conclusions about from your visualizations and cleaning?
+- The findings from our slideshow consistently reinforce the magnitude of the mental health crisis faced by 22% of Americans, with around 1 in 5 adults reporting having a depressive disorder.
+- Understanding how depression manifests itself in various ways is important for creating and proposing informed solutions such as new policies, improved resources, or further research.
 
